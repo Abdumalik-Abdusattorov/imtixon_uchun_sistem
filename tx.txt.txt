@@ -1,0 +1,6 @@
+1 Guruh yarata olishim kerak. O’quvchilar qo’sha olishim kerak.
+2 Guruh uchun imtihon yaratishim va ular uchun vaqt biriktira olishim kerak.
+3 Imtihonni javoblarini qabul qila olishim.
+4 Imtihon javoblaridan kelib chiqib o’quvchilar uchun baho qo’ya olishim kerak.
+5 Imtihondan yiqilgan o’quvchilar yiqildi statusi ko’rinib turishi kerak.
+6 Imtihon vaqtidan har bir kechikkan 5 daqiqasi uchun 5 ball ayirib tashlanadi. Misol uchun 7 daqiqa kech qolsa va 70 ball to’plagan bo’lsa 7 65 qilib baholanadi.
